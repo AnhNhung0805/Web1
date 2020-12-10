@@ -63,7 +63,7 @@
                 <div class="column right">
                     <div class="text">
                         Hello Everybody <span class="typing-2"></span></div>
-                    <a href="#">Download CV</a>
+                    <a href="Anhlpt.pdf">Download CV</a>
                 </div>
             </div>
         </div>
@@ -98,8 +98,8 @@
                         <i class="fas fa-code"></i>
                         <div class="text">
                             Apps Design</div>
-                        <p>
-                            Android, IOS, Windows.</p>
+                        <a href="https://ibuildapp.com/app.php?3775572,3734020">
+                            Android, IOS, Windows.</a>
                     </div>
                 </div>
             </div>
